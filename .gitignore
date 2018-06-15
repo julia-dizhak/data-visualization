@@ -1,0 +1,11 @@
+node_modules/
+bower_components
+
+.bundle/
+
+*.git
+*.idea/
+*.pyc
+
+.DS_Store
+*.DS_Store

@@ -1,2 +1,2 @@
 # data-visualization
-data visualisation examples
+Data visualization examples by using d3.js
