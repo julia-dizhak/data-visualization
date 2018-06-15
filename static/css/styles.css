@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+}
+
+h1 {
+    padding: 5px 60px;
+}    
+h1,
+h2,
+h3 {
+    margin: 0 0 15px 0;
+}
+h3 {
+    font-size: 1.4em;
+}
+
+.remark {
+    font-size: 0.75em;
+}
+.legend {
+    text-align: center;
+    color: #ccc;
+}
+
+.content {
+    padding: 30px 60px;
+}
+.wrap {
+    padding: 15px 60px 5px;
+}

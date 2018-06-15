@@ -1,9 +1,7 @@
 # data-visualization
 Data visualization examples by using d3.js
 
-## Julia Dizhak visualization Blog
-
-Colons can be used to align columns.
+## Examples
 
 | Date        | Title / link           | -  |
 | ------------- |:-------------:| -----:|
